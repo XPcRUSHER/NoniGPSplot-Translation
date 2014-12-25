@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="change_log">
+        <item>1.1.11|1842|Usuń automatyczny system czyszczenia starych torach</item>
+        <item>1.1.9|1838|Nowa polityka dostępu do sd boćwina pod KitKat</item>
+        <item>1.1.1-1.1.8|1651|Poprawiono kilka błędów|Poprawić zużycie pamięci</item>
+        <item>1.1.0|1642|Możliwość dodawania map, grafiki, lub sztuczny horyzont do pulpitów (Pro)|UMT i swissgrid współrzędne|Możliwość definiowania komentarz dla punktów|Dodać statystyki w zadaniach eksportu KML|Poprawiono wyświetlanie w krajobrazie|Poprawiono kilka błędów</item>
+        <item>1.0.3-1.0.9|1491|Poprawiono kilka błędów</item>
+        <item>1.0.2|1487|Możliwość pokazać / ukryć centralny krzyż|Poprawiono kilka błędów|Nonigpsplot zarządzania sprawami zabity przez activitymanager</item>
+        <item>1.0.1|1448|Pierwsze wydanie</item>
+    </string-array>
+    <string-array name="graph_choice">
+        <item>Żadna</item>
+        <item>Prędkość</item>
+        <item>Wysokość</item>
+        <item>Sygnał</item>
+    </string-array>
+    <string-array name="info_choice">
+        <item>Ukryj</item>
+        <item>Współrzędne GPS</item>
+        <item>Prędkość / wysokość / odległość</item>
+        <item>Czas / czas trwania</item>
+        <item>Współrzędne środka</item>
+    </string-array>
+    <string-array name="wp_display_name">
+        <item>Żaden</item>
+        <item>Nazwa</item>
+        <item>Grupa / nazwa</item>
+    </string-array>
+    <string-array name="charsets">
+        <item>Domyślne</item>
+        <item>UTF-8</item>
+        <item>ISO-8859-1</item>
+    </string-array>
+    <string-array name="display_unit">
+        <item>Metryczne</item>
+        <item>Anglosaskie</item>
+        <item>Morskie</item>
+        <item>Lotnicze</item>
+    </string-array>
+    <string-array name="wp_display_type">
+        <item>Wyświetlony</item>
+        <item>Wtórny</item>
+        <item>Ukryty</item>
+    </string-array>
+    <string-array name="alert_type">
+        <item>Zbliżanie</item>
+        <item>Wysokość</item>
+        <item>Nierówność</item>
+        <item>Prędkość</item>
+        <item>Prędkość wznoszenia</item>
+        <item>Odliczanie</item>
+    </string-array>
+    <string-array name="alert_hight_low">
+        <item>Powyżej</item>
+        <item>Poniżej</item>
+    </string-array>
+    <string-array name="alert_up_down">
+        <item>Wznosząc się</item>
+        <item>Opadając</item>
+        <item>Wznosząc się lub opadając</item>
+    </string-array>
+    <string-array name="track_tools_action">
+        <item>Usuń wybraną część ścieżki</item>
+        <item>Usuń wszystko za wyjątkiem wybranej części ścieżki</item>
+        <item>Usuń ścieżkę przed wybranym punkcie</item>
+        <item>Usuń ścieżkę po wybranym punkcie</item>
+    </string-array>
+    <string-array name="maps_filter_names">
+        <item>Żaden</item>
+        <item>Kontrast</item>
+        <item>Odwrócone</item>
+        <item>Odwrócone 2</item>
+        <item>Ciemniejszy</item>
+        <item>Uzupełnienie</item>
+    </string-array>
+    <string-array name="track_reset_time">
+        <item>30 minut</item>
+        <item>1 godzina</item>
+        <item>2 godziny</item>
+        <item>6 godzin</item>
+        <item>12 godzin</item>
+        <item>24 godziny</item>
+        <item>Nigdy</item>
+    </string-array>
+</resources>
